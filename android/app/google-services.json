@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "1047914110792",
+    "firebase_url": "https://test2-72a27.firebaseio.com",
+    "project_id": "test2-72a27",
+    "storage_bucket": "test2-72a27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047914110792:android:97a16153fc2d08aff95d7d",
+        "android_client_info": {
+          "package_name": "com.example.Hospital_FastWay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047914110792-495s2l67iscmhf4iv5bn153v4fu75lf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzt1i9pipwk6xXvu0YGRzRlGSzE9O3kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047914110792-495s2l67iscmhf4iv5bn153v4fu75lf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047914110792:android:aa950b16b7477350f95d7d",
+        "android_client_info": {
+          "package_name": "com.example.Mobile_FastWay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047914110792-495s2l67iscmhf4iv5bn153v4fu75lf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzt1i9pipwk6xXvu0YGRzRlGSzE9O3kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047914110792-495s2l67iscmhf4iv5bn153v4fu75lf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1047914110792:android:1bb1c77142d2e87ef95d7d",
+        "android_client_info": {
+          "package_name": "com.example.test2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1047914110792-495s2l67iscmhf4iv5bn153v4fu75lf0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIzt1i9pipwk6xXvu0YGRzRlGSzE9O3kk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1047914110792-495s2l67iscmhf4iv5bn153v4fu75lf0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
